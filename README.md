@@ -1,4 +1,4 @@
-# Proyek Praktikum Pemrograman Berorientasi Objek (PBO)
+# Proyek Praktikum Pemrograman Berorientasi Objek 
 
 Repositori ini berisi kumpulan tugas dan latihan praktikum Java yang mencakup konsep-konsep dasar OOP (Object-Oriented Programming) seperti Class, Object, Encapsulation, Inheritance, dan Polymorphism.
 
